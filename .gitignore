@@ -1,5 +1,4 @@
 /vendor/
+/secure/
 .env
 *.json
-/config/google_oauth.php
-/config/database.php
